@@ -14,6 +14,11 @@ blameやファイル単位の履歴などできる
 
 ![](./images/indent-rainbow.png)
 
+### [vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+AI支援サジェスト(図中の星がついたもの)。初期状態ではサジェストはアルファベット順に表示されるが関連性の高いものが優先表示されるようになる
+
+![](./images/vscodeintellicode.png)
+
 ### [bracket-pair-colorizer-2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 括弧が色付けされ、ネストするごとに色が変わる
 
