@@ -105,11 +105,11 @@ blameやファイル単位の履歴など見える
 ### [style-lint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 cssのlintツール
 
-#### [debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+### [debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-#### [html-css-support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+### [html-css-support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
-#### [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+### [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 コードフォーマッター
 
 ### javascript(nodeなども含む)
