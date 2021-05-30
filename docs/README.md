@@ -1,8 +1,12 @@
 # プラグイン
 ## 基本
-### [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-エディタ上でgitの操作が行え、
-blameやファイル単位の履歴などできる
+
+### [remote-development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+リモートマシンやdockerなど様々な環境でvscodeを実行できるようになる。
+
+### [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+共同編集が可能になる。webオンラインエディタでの共有ができ、
+サーバのポート、ターミナルの共有も行える
 
 ### [ErrorLens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 エラーや警告が表示される
@@ -29,17 +33,11 @@ AI支援サジェスト(図中の星がついたもの)。初期状態ではサ�
 
 ![](./images/code-spell-checker.png)
 
-### [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-共同編集が可能になる。webオンラインエディタでの共有ができ、
-サーバのポート、ターミナルの共有も行える
 
 ### [trailing-spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 行末のスペースを表示する
 
 ![](./images/trailing-spaces.png)
-
-### [remote-development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
-リモートマシンやdockerなど様々な環境でvscodeを実行できるようになる。
 
 ### [output-colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
 vscodeのログに色を付ける
@@ -77,6 +75,13 @@ CSVを列単位で虹色に表示してくれる
 
 ### [git-project-manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
 ローカルのgitプロジェクト単位で切り替えられるコマンドの追加
+
+### [git-history](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+gitの履歴表示に特化したプラグイン。画面上に常に表示されるものではないため、gitlensとの併用もあり。
+
+### [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+エディタ上でgitの操作が行え、
+blameやファイル単位の履歴など見える
 
 ## web開発
 
