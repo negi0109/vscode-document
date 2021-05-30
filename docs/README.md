@@ -130,6 +130,8 @@ node_modulesから検索できる
 モジュールのサイズを表示してくれる
 ![](./images/import-cost.png)
 
+### [path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
 #### テスト
 ##### [jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 
