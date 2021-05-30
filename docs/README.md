@@ -146,3 +146,6 @@ rubyのコード補完や関数ジャンプを可能にする
 
 #### [Rails Run Specs](https://marketplace.visualstudio.com/items?itemName=noku.rails-run-spec-vscode)
 エディタ状でrspecを実行できる。エディタ状にテスト結果なども表示され便利
+
+#### [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)
+defなどを記述時、自動でendを挿入
