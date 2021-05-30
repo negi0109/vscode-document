@@ -1,5 +1,5 @@
 # VS codeプラグイン
-## 基本
+## 共通
 
 ### [remote-development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 リモートマシンやdockerなど様々な環境でvscodeを実行できるようになる。
