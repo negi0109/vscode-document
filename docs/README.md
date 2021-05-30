@@ -52,6 +52,9 @@ vscodeのログに色を付ける
 ### [evilInspector](https://marketplace.visualstudio.com/items?itemName=saikou9901.evilinspector)
 全角スペースを表示
 
+### [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+CSVを列単位で虹色に表示してくれる
+
 ## docker
 
 ### [docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
