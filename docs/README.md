@@ -1,4 +1,4 @@
-# プラグイン
+# VS codeプラグイン
 ## 基本
 
 ### [remote-development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
