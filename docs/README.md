@@ -58,6 +58,10 @@ vscodeのログに色を付ける
 ### [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 CSVを列単位で虹色に表示してくれる
 
+### [plantuml](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+
+![](./images/plantuml.png)
+
 ## docker
 
 ### [docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
