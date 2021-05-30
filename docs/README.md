@@ -77,3 +77,21 @@ CSVを列単位で虹色に表示してくれる
 
 ### [git-project-manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
 ローカルのgitプロジェクト単位で切り替えられるコマンドの追加
+
+## web開発
+
+### [auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+タグの名前変更を片方を変更したら自動で変更される
+
+<video controls>
+  <source src="./images/auto-rename-tag.mov" type="video/mp4">
+</video>
+
+### [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+簡易のwebローカルサーバーを立ち上げてくれる.自動リロードなどもしてくれ、ローカルファイル上では動かないプログラムの確認ができる
+
+### [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
+指定のファイルをブラウザで開く。
+
+### [style-lint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+cssのlintツール
