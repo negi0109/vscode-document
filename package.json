@@ -1,0 +1,23 @@
+{
+  "name": "vscode-document",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docsify": "docsify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/negi0109/vscode-document.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/negi0109/vscode-document/issues"
+  },
+  "homepage": "https://github.com/negi0109/vscode-document#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
