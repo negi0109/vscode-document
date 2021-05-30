@@ -38,3 +38,16 @@ blameやファイル単位の履歴などできる
 
 ### [remote-development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 リモートマシンやdockerなど様々な環境でvscodeを実行できるようになる。
+
+### [output-colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+vscodeのログに色を付ける
+
+![](./images/output-colorizer.png)
+
+### [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+エディタに問わず同様のプラグインがあるため、設定項目は少ないが、最低限の共通の設定ができる
+
+### [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+`TODO`などを強調表示し、簡易に一覧できる
+
+![](./images/todo-tree.png)

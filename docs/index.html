@@ -7,13 +7,24 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
 </head>
 <body>
   <div id="app"></div>
   <script>
+    var repo = 'https://github.com/negi0109/vscode-document';
+
     window.$docsify = {
       name: '',
-      repo: ''
+      repo: repo,
+      plugins: [
+          EditOnGithubPlugin.create(
+              repo + '/blob/master/docs/',
+              null,
+              '📝 Edit on GitHub',
+          )
+      ],
     }
   </script>
   <!-- Docsify v4 -->
