@@ -97,7 +97,7 @@ blameやファイル単位の履歴など見える
 </video>
 
 ### [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-簡易のwebローカルサーバーを立ち上げてくれる.自動リロードなどもしてくれ、ローカルファイル上では動かないプログラムの確認ができる
+簡易のwebローカルサーバーを立ち上げてくれる.自動リロードなどもし、ローカルファイル上では動かないプログラムの確認ができる
 
 ### [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 指定のファイルをブラウザで開く。
