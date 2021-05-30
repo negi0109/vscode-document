@@ -1,5 +1,5 @@
 # プラグイン
-## その他
+## 基本
 ### [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 エディタ上でgitの操作が行え、
 blameやファイル単位の履歴などできる
@@ -23,9 +23,6 @@ blameやファイル単位の履歴などできる
 スペルミスを指摘してくれる
 
 ![](./images/code-spell-checker.png)
-
-### [gitlink](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink)
-選択箇所のgithubリンクを生成、開くことができる
 
 ### [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 共同編集が可能になる。webオンラインエディタでの共有ができ、
@@ -51,3 +48,24 @@ vscodeのログに色を付ける
 `TODO`などを強調表示し、簡易に一覧できる
 
 ![](./images/todo-tree.png)
+
+### [evilInspector](https://marketplace.visualstudio.com/items?itemName=saikou9901.evilinspector)
+全角スペースを表示
+
+## docker
+
+### [docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+イメージやネットワーク、ボリュームなど一覧できる
+
+### [docker-compose](https://marketplace.visualstudio.com/items?itemName=p1c2u.docker-compose)
+
+## git
+
+### [vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+![](./images/github-pullrequest-and-issues.png)
+
+### [gitlink](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink)
+選択箇所のgithubリンクを生成、開くことができる
+
+### [git-project-manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
+ローカルのgitプロジェクト単位で切り替えられるコマンドの追加
