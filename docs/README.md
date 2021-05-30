@@ -100,3 +100,43 @@ blameやファイル単位の履歴など見える
 
 ### [style-lint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 cssのlintツール
+
+#### [debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
+#### [html-css-support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+
+#### [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+コードフォーマッター
+
+### javascript(nodeなども含む)
+#### [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+
+#### [es-lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+#### [node-debug2](https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2)
+
+#### [npm-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
+#### [search-node-modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
+node_modulesから検索できる
+
+![](./images/search-node-modules.png)
+
+### [vscode-import-cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+モジュールのサイズを表示してくれる
+![](./images/import-cost.png)
+
+#### テスト
+##### [jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+
+### ruby
+#### [ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
+
+#### [ruby-rubocop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop)
+エディタ上でrubocopを実行
+
+#### [ruby-solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
+rubyのコード補完や関数ジャンプを可能にする
+
+#### [Rails Run Specs](https://marketplace.visualstudio.com/items?itemName=noku.rails-run-spec-vscode)
+エディタ状でrspecを実行できる。エディタ状にテスト結果なども表示され便利
