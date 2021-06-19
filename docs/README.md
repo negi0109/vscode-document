@@ -72,7 +72,10 @@ CSVを列単位で虹色に表示してくれる
 ## git
 
 ### [vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+- チェックアウトしてレビューまでの一連の動作をエディタで完結させられる
+
 ![](./images/github-pullrequest-and-issues.png)
+
 
 ### [gitlink](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink)
 選択箇所のgithubリンクを生成、開くことができる
@@ -86,6 +89,8 @@ gitの履歴表示に特化したプラグイン。画面上に常に表示さ�
 ### [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 エディタ上でgitの操作が行え、
 blameやファイル単位の履歴など見える
+
+
 
 ## web開発
 
